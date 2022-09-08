@@ -1,0 +1,8 @@
+README.md
+setup.py
+ytils/__init__.py
+ytils.egg-info/PKG-INFO
+ytils.egg-info/SOURCES.txt
+ytils.egg-info/dependency_links.txt
+ytils.egg-info/requires.txt
+ytils.egg-info/top_level.txt
